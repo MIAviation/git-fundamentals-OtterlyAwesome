@@ -105,3 +105,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+##Committing a Change
+I'm committing a change for the assignment due 09/13/21 before midnight.
